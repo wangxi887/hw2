@@ -2,7 +2,7 @@
 #ifndef MAP_H
 #define MAP_H
 
-#include "Position.h"
+#include "position.h"
 #include <vector>
 #include <string>
 

@@ -1,5 +1,5 @@
 // Map.cpp
-#include "Map.h"
+#include "map.h"
 #include <iostream>
 #include <random>
 #include <queue>

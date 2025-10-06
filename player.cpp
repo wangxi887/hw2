@@ -1,6 +1,6 @@
 // Player.cpp
-#include "Player.h"
-#include "Map.h"
+#include "player.h"
+#include "map.h"
 #include <iostream>
 
 using namespace std;

@@ -2,7 +2,7 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-#include "Position.h"
+#include "position.h"
 
 class Player {
 private:
