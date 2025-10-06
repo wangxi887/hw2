@@ -4,6 +4,7 @@
 
 #include "position.h"
 
+
 class Player {
 private:
     Position position;

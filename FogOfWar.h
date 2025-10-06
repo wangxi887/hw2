@@ -12,6 +12,7 @@ enum FogState {
     FOG_EXPLORED = 2     // 已探索（永久可见）
 };
 
+
 class FogOfWar {
 private:
     std::vector<std::vector<FogState>> fogGrid;

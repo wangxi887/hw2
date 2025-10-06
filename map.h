@@ -6,6 +6,7 @@
 #include <vector>
 #include <string>
 
+
 enum CellType {
     EMPTY = 0,      // 可通行
     WALL = 1,       // 墙壁
